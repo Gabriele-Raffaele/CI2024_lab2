@@ -1,8 +1,8 @@
 | Algoritmo                                                    | Greedy | Order Mutation | Order Crossover | Inversion Mutation | Inver Over |Greedy Population| Best results (Km)    |
 |--------------------------------------------------------------|:------:|:--------------:|:---------------:|:------------------:|:----------:|:-:|--------------|
 | KKN                                                          |   X    |                |                 |                    |            |    | 4379.34 Km   |
-| TourGene Algorithm                                            |        |               |               |         X           |     X       |    | 4259.49 Km   |
-| GreedGenesis Algorithm                        |        |                |                 |         X          |     X      |  X  | 4292.13 Km   |
+| TourGene Algorithm                                            |        |               |               |         X           |     X       |    | 4175.23 Km   |
+| GreedGenesis Algorithm                        |        |                |                 |         X          |     X      |  X  | 4258.07 Km   |
 | RingPath Genetic Algorithm  |        |                |               |         X          |                                              X |   | 4193.69 Km   |
 
 
