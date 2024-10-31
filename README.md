@@ -1,9 +1,9 @@
-| Algoritmo                                                    | Greedy | Order Mutation | Order Crossover | Inversion Mutation | Inver Over |Greedy Population| Best results (Km)    |
-|--------------------------------------------------------------|:------:|:--------------:|:---------------:|:------------------:|:----------:|:-:|--------------|
-| KKN                                                          |   X    |                |                 |                    |            |    | 4379.34 Km   |
-| TourGene Algorithm                                            |        |               |               |         X           |     X       |    | 4175.23 Km   |
-| GreedGenesis Algorithm                        |        |                |                 |         X          |     X      |  X  | 4258.07 Km   |
-| RingPath Genetic Algorithm  |        |                |               |         X          |                                              X |   | 4193.69 Km   |
+| Algoritmo                                                    | Greedy | Inversion Mutation | Inver Over |Greedy Population| Best results Italy (Km)    |Best results Russia (Km)    |
+|--------------------------------------------------------------|:---------------:|:------------------:|:----------:|:-:|:-:|:-:|
+KKN                     |   X              |                    |            |    | 4309.30 Km   |34865.02 Km|
+| TourGene Algorithm                                                          |               |         X           |     X       |    | 4175.23 Km   |43438.49 Km|
+| GreedGenesis Algorithm                              |                 |         X          |     X      |  X  | 4175.99 Km   |37285.66 Km|
+| RingPath Genetic Algorithm  |             |         X          |                                              X |   | 4193.69 Km   |35889.56 Km|
 
 
 
